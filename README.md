@@ -1,2 +1,2 @@
-# BI_stat_course
-This is repository for my statistics homeworks
+# Differential expression
+I have made the Jupyter Notebook with homework (lecture 4-5)
